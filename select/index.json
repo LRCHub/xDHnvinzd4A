@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "box in my brain",
+  "base_artist": "Marianne Leigh",
+  "createdAt": "2026-03-23T13:26:02.500361Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "box in my brain",
+      "artist": "Marianne Leigh",
+      "has_synced": false,
+      "path": "select/01_box_in_my_brain_Marianne_Leigh.txt"
+    }
+  ]
+}
